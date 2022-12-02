@@ -19,6 +19,10 @@ body.util {
 	overflow-x: hidden;
 }
 
+main {
+	padding-inline: 20px;
+}
+
 section {
 	width: auto;
 	padding: 20px;
