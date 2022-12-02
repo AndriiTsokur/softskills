@@ -20,7 +20,7 @@ body.util {
 }
 
 section {
-	width: 600px;
+	width: auto;
 	padding: 20px;
 	border: solid 1px #000000;
 	border-radius: 20px;
@@ -29,7 +29,7 @@ section {
 
 ul {
 	display: flex;
-	padding: 0;
+	padding-top: 20px;
 	justify-content: center;
 }
 
