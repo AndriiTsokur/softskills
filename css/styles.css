@@ -12,9 +12,12 @@ body {
 	padding: 0;
 	justify-content: center;
 	align-items: center;
-	overflow-x: hidden;
 	background-image: linear-gradient(to bottom, white, black);
 	text-align: center;
+}
+
+body.util {
+	overflow-x: hidden;
 }
 
 section {
